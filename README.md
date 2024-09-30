@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  🪐 About Me:
 Hi there! 🤠 I'm a passionate 22-year-old software developer from Mexico.<br><br>I’m driven by a constant desire to learn and improve. I love taking on new challenges, exploring different technologies, and participating in projects that help me grow professionally. While I specialize in web and backend development, I’m always open to expanding my skill set.<br><br>I strive to excel in every project I take part in, bringing creative and efficient solutions to the table. If you have an exciting idea or a challenging project, I’d love to be a part of it!
 
 
